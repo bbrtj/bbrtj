@@ -1,4 +1,6 @@
-### Hi there 👋
+[What I am working on](https://bbrtj.eu/projects)
+
+[How to support me](https://bbrtj.eu/support)
 
 <!--
 **bbrtj/bbrtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
