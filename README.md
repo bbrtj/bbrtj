@@ -1,4 +1,8 @@
-\>\> [About me](https://bbrtj.eu) | [What I am working on](https://bbrtj.eu/projects) | [How to support me](https://bbrtj.eu/support) \<\<
+[About me](https://bbrtj.eu) 
+
+[What I am working on](https://bbrtj.eu/projects) | [How to support me](https://bbrtj.eu/support) 
+
+[How to work with my repositories (Perl)](perl-contributing.md) 
 
 <!--
 **bbrtj/bbrtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
