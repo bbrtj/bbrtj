@@ -6,7 +6,8 @@ Most of my modules are Dist::Zilla based, which eases much of the development bu
 - Third, install any runtime dependencies: `dzil listdeps --missing | cpanm` (in the project root)
 - You should be ready to run and build the project
 
-_Side note: installing the built project does not require these steps. These are only required if you want to build from source._
+_Side note: installing the built project does not require these steps. These are only required if you want to build from source. 
+You can have a single perl with dzil setup and use it to build packages, and then you can test them with any other perl._
 
 Dist::Zilla documentation can be found [on its website](https://dzil.org/index.html). You usually should need just a couple commands:
 - `dzil build` builds the dist into a new subdirectory and packs it into `.tar.gz`
